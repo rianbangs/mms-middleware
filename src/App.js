@@ -9,7 +9,12 @@ import Iframe_3 from './components/Iframe_3';
 
 function App() 
 {
-  
+  // git init
+  // git add .
+  // git commit -m "Your commit message here"
+  // git remote add origin https://github.com/rianbangs/mms-middleware.git
+  // git push -u origin master
+
 
   return (
     < >
